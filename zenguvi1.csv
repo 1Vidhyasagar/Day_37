@@ -1,0 +1,11 @@
+Id,name,Email,Address,batchId,studentId,Batchname
+1,Vidhyasagar,sagar@gmail.com,Solapur,1,1,32
+2,Rahul,rahul@gmail.com,Chennai,2,2,32
+3,Bhaskar,bhaskar@gmail.com,Solapur,3,3,32
+4,Gayatri,gayu@gmail.com,Pune,4,4,31
+5,Divya,divya@gmail.com,Solapur,5,5,31
+6,Vandana,vand@gmail.com,Nashik,6,6,31
+7,Paras,bishtp@gmail.com,Delhi,7,7,30
+8,Sneha,sneha@gmail.com,Banglore,8,8,30
+9,Monika,mona@gmail.com,Banglore,9,9,30
+10,Ram,ram@gmail.com,Mumbai,10,10,30
